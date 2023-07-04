@@ -1,1 +1,2 @@
-Create testfile
+import test
+test.title('Welcome to Python')
